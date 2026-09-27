@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="WsC143umkAOJ3JG0HvP-">
+    <mxGraphModel dx="2054" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OVfkuZX7gSSNBq_NRNGC-2" edge="1" parent="1" source="OVfkuZX7gSSNBq_NRNGC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="765" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OVfkuZX7gSSNBq_NRNGC-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Начало&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="680" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfkuZX7gSSNBq_NRNGC-4" edge="1" parent="1" source="OVfkuZX7gSSNBq_NRNGC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="765" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OVfkuZX7gSSNBq_NRNGC-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ввод: pounds" vertex="1">
+          <mxGeometry height="60" width="190" x="670" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="XhOPlA578juD8EyGIYXD-10" edge="1" parent="1" source="OVfkuZX7gSSNBq_NRNGC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OVfkuZX7gSSNBq_NRNGC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfkuZX7gSSNBq_NRNGC-17" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Выводим: kg, grams, tons" vertex="1">
+          <mxGeometry height="60" width="190" x="670" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfkuZX7gSSNBq_NRNGC-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Конец&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="680" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="XhOPlA578juD8EyGIYXD-4" edge="1" parent="1" source="XhOPlA578juD8EyGIYXD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="765" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XhOPlA578juD8EyGIYXD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kg = pounds * 0.453592" vertex="1">
+          <mxGeometry height="60" width="170" x="680" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="XhOPlA578juD8EyGIYXD-6" edge="1" parent="1" source="XhOPlA578juD8EyGIYXD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="765" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XhOPlA578juD8EyGIYXD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="grams = kg * 1000" vertex="1">
+          <mxGeometry height="60" width="170" x="680" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="XhOPlA578juD8EyGIYXD-9" edge="1" parent="1" source="XhOPlA578juD8EyGIYXD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OVfkuZX7gSSNBq_NRNGC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XhOPlA578juD8EyGIYXD-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="tons = kg / 1000" vertex="1">
+          <mxGeometry height="60" width="170" x="680" y="910" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
